@@ -1,0 +1,131 @@
+Browser: HtmlUnit
+
+String: 		Payment: $91.21, Tax: 8.25%
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		Payment: 91.21, Tax: 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		$91.21/8.25%
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		91.21, 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		91.21 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		Payment: $91.23, Tax: 8.25%
+Annual Payment with Tax: 1185.12
+Result: 		WRONG [should be: 1184.76]
+___________________________________________________
+
+
+Browser: Chrome
+
+String: 		Payment: $91.21, Tax: 8.25%
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		Payment: 91.21, Tax: 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		$91.21/8.25%
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		91.21, 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		91.21 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		Payment: $91.23, Tax: 8.25%
+Annual Payment with Tax: 1185.12
+Result: 		WRONG [should be: 1184.76]
+___________________________________________________
+
+
+Browser: Firefox
+
+String: 		Payment: $91.21, Tax: 8.25%
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		Payment: 91.21, Tax: 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		$91.21/8.25%
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		91.21, 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		91.21 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		Payment: $91.23, Tax: 8.25%
+Annual Payment with Tax: 1185.12
+Result: 		WRONG [should be: 1184.76]
+___________________________________________________
+
+
+Browser: Edge
+
+String: 		Payment: $91.21, Tax: 8.25%
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		Payment: 91.21, Tax: 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		$91.21/8.25%
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		91.21, 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		91.21 8.25
+Annual Payment with Tax: 1184.76
+Result: 		CORRECT
+___________________________________________________
+
+String: 		Payment: $91.23, Tax: 8.25%
+Annual Payment with Tax: 1185.12
+Result: 		WRONG [should be: 1184.76]
+___________________________________________________
+
